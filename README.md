@@ -1,8 +1,8 @@
-## hello, world! i'm hannah. 👋
+# Hello, World! I'm Hannah. 👋
 
-🏫 &nbsp;&nbsp;i'm a **second year computer science student at UCLA.**  
-🔭 &nbsp;&nbsp;i’m currently working on **my personal portfolio!**  
-🌱 &nbsp;&nbsp;i’m currently learning **computer graphics and animation.**  
-💬 &nbsp;&nbsp;ask me about **photography and star wars!**  
-😄 &nbsp;&nbsp;pronouns: **she/her**
+🏫 &nbsp;&nbsp;I'm a **second year computer science student at UCLA.**  
+🔭 &nbsp;&nbsp;I’m currently working on **my personal portfolio!**  
+🌱 &nbsp;&nbsp;I’m currently learning **computer graphics and animation.**  
+💬 &nbsp;&nbsp;Ask me about **photography and Star Wars!**  
+😄 &nbsp;&nbsp;Pronouns: **she/her**
 
